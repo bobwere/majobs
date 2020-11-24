@@ -7,8 +7,8 @@
   party asking for the service(Client). 
 
 ## Features
-  client can search for service providers
-  clients can favourite service providers
+  client can search for service providers.
+  clients can favourite service providers.
   clients can chat within the app with service providers reach an agreement
   clients can book service provider 
   clients can pay via mpesa for services rendered within the app
