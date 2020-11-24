@@ -7,12 +7,12 @@
   party asking for the service(Client). 
 
 ## Features
-client can search for service providers
-clients can favourite service providers
-clients can chat within the app with service providers reach an agreement
-clients can book service provider 
-clients can pay via mpesa for services rendered within the app
-clients can track progress/stage of the job e.g. pending,in progress,rejected, accpted, paid,unpaid for
+  client can search for service providers
+  clients can favourite service providers
+  clients can chat within the app with service providers reach an agreement
+  clients can book service provider 
+  clients can pay via mpesa for services rendered within the app
+  clients can track progress/stage of the job e.g. pending,in progress,rejected, accpted, paid,unpaid for
 
 
 
